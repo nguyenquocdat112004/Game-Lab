@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\uibuttonclicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibuttonclicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\starspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\starspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\settingpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\playwithsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playwithsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\gamedifficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedifficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\endgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\asteroidspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroidspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|d:\\chuy\u00EAn nga\u0300nh 7\\pru212\\project\\lab 1\\spaceexplorer\\assets\\scripts\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE442E39-CF73-1AAC-8B01-4A5D950776AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIButtonClickSound.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\UIButtonClickSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtonClickSound.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\UIButtonClickSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIButtonClickSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:53:03.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarSpawner.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\StarSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarSpawner.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\StarSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarSpawner.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingPanelController.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\SettingPanelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingPanelController.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\SettingPanelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingPanelController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:54.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:50.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayWithSound.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\PlayWithSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayWithSound.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\PlayWithSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayWithSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:40.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:32.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Laser.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\Laser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Laser.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\Laser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Laser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:28.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStateManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStateManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameDifficultyManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\GameDifficultyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameDifficultyManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\GameDifficultyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameDifficultyManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EndGameManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\EndGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndGameManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\EndGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndGameManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:16.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsteroidSpawner.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\AsteroidSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AsteroidSpawner.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\AsteroidSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AsteroidSpawner.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA9wEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:52:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Asteroid.cs",
+              "ToolTip": "D:\\CHUY\u00CAN NGA\u0300NH 7\\PRU212\\Project\\Lab 1\\SpaceExplorer\\Assets\\Scripts\\Asteroid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Asteroid.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:51:37.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
